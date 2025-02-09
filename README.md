@@ -18,7 +18,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/JonathanMiroshnik/JonathanMiroshnik/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/JonathanMiroshnik/JonathanMiroshnik/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: jonathanmiroshnik@gmail.com.
 
