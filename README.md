@@ -65,7 +65,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
   	<ul>
   	    <li><b>OS:</b> Linux Mint</li>
   	    <li><b>Browser: </b> Firefox & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>Code Editor:</b> Cursor, VSCode</li>
  	    <li><b>Other Tools:</b> Obsidian, Anki</li>
 	    <li><b>To Stay Updated:</b> Twitter, Hacker News</li>
 	</ul>
